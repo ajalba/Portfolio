@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2021-08-27T00:55:23+02:00
-draft: true
+
 ---
 
 ### Neural Network for Image Recognition

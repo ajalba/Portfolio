@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2021-08-27T13:19:09+02:00
-draft: true
+
 ---
 
 ### Red Neuronal para Reconocimiento de Imágenes

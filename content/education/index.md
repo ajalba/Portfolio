@@ -1,7 +1,7 @@
 ---
 title: "Education"
 date: 2021-08-27T11:48:28+02:00
-draft: true
+
 ---
 
 09/2020-Now

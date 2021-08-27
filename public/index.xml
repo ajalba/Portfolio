@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yusuke Ishimi</title>
+    <title>Abel José SÁnchez Alba</title>
     <link>http://www.example.com/</link>
-    <description>Recent content on Yusuke Ishimi</description>
+    <description>Recent content on Abel José SÁnchez Alba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education</title>
+      <link>http://www.example.com/education/</link>
+      <pubDate>Fri, 27 Aug 2021 11:48:28 +0200</pubDate>
+      
+      <guid>http://www.example.com/education/</guid>
+      <description>09/2020-Now University of Granada - Master in Computer Science Engineering
+09/2014-09/2020 University of Granada - Bachellor Degree Computer Science
+09/2014-09/2020 University of Granada - Bachellor Degree Mathematics
+09/2017-09/2018 University of the Basque Country - Year abroad studying mathematics
+Languages  Native Spanish Fluent Profesional English Conversational French  </description>
+    </item>
+    
   </channel>
 </rss>
