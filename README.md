@@ -1,2 +1,2 @@
 # Portfolio
-Repository of pernal Portfolioso
+Repository of pernal Portfolio

@@ -2,8 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.example.com/experience/</loc>
+    <lastmod>2021-08-27T12:25:05+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.example.com/es/experience/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/experience/"
+                />
+  </url><url>
     <loc>http://www.example.com/education/</loc>
     <lastmod>2021-08-27T11:48:28+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.example.com/es/education/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/education/"
+                />
+  </url><url>
+    <loc>http://www.example.com/projects/</loc>
+    <lastmod>2021-08-27T00:55:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://www.example.com/es/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.example.com/projects/"
+                />
   </url><url>
     <loc>http://www.example.com/</loc>
     <xhtml:link
