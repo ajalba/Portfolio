@@ -2,79 +2,107 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/es/projects/</loc>
+    <loc>/es/about/</loc>
+    <lastmod>2021-09-01T18:33:23+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/about/"
+                />
+  </url><url>
+    <loc>/es/projects/</loc>
     <lastmod>2021-08-27T13:19:09+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/projects/"
+                href="/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/projects/"
+                href="/es/projects/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/experience/</loc>
+    <loc>/es/experience/</loc>
     <lastmod>2021-08-27T13:10:50+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/experience/"
+                href="/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/experience/"
+                href="/es/experience/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/education/</loc>
+    <loc>/es/education/</loc>
     <lastmod>2021-08-27T13:07:01+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/education/"
+                href="/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/education/"
+                href="/es/education/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/</loc>
+    <loc>/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/"
+                href="/es/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/categories/</loc>
+    <loc>/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/categories/"
+                href="/es/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/es/tags/</loc>
+    <loc>/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://www.example.com/es/tags/"
+                href="/es/tags/"
                 />
   </url>
 </urlset>

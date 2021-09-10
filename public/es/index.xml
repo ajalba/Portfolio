@@ -2,16 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abel José Sánchez Alba</title>
-    <link>http://www.example.com/es/</link>
+    <link>/es/</link>
     <description>Recent content on Abel José Sánchez Alba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/es/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/es/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Mi</title>
+      <link>/es/about/</link>
+      <pubDate>Wed, 01 Sep 2021 18:33:23 +0200</pubDate>
+      
+      <guid>/es/about/</guid>
+      <description>Hola! Soy Abel Nací en España y soy doblemente graduado en Informática y Matemáticas en la Universidad de Granada, España. En este momento estoy buscando un trabajo donde pueda crecer profesionalmente con el punto de partida de la licenciatura.
+Además, estoy estudiando un máster para profundizar en el campo de la ingeniería del software, me interesa especialmente la ingeniería del back end, donde abordo los problemas utilizando la abstracción que dan las matemáticas.</description>
+    </item>
+    
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/es/projects/</link>
+      <link>/es/projects/</link>
       <pubDate>Fri, 27 Aug 2021 13:19:09 +0200</pubDate>
       
-      <guid>http://www.example.com/es/projects/</guid>
+      <guid>/es/projects/</guid>
       <description>Red Neuronal para Reconocimiento de Imágenes   Implementada la totalidad del código para reconocimiento de números escritos a mano en Python
   Optimizadas precisión y velocidad del modelo empleando técnicas matemáticas
   Web para administración de tiendas   Construida empleando HTML, CSS y JavaScript en el framework Django
@@ -21,10 +31,10 @@
     
     <item>
       <title>Experience</title>
-      <link>http://www.example.com/es/experience/</link>
+      <link>/es/experience/</link>
       <pubDate>Fri, 27 Aug 2021 13:10:50 +0200</pubDate>
       
-      <guid>http://www.example.com/es/experience/</guid>
+      <guid>/es/experience/</guid>
       <description>02/2021 - 08/2021
 NGA Human Resources, Granada - Ingeniero Software   Diseño de bots automatizados para acelerar procesos de la empresa
   Mejora de la eficiencia de las automatizaciones aplicando modelos de datos en servicios host
@@ -35,10 +45,10 @@ NGA Human Resources, Granada - Ingeniero Software   Diseño de bots automatizado
     
     <item>
       <title>Educación</title>
-      <link>http://www.example.com/es/education/</link>
+      <link>/es/education/</link>
       <pubDate>Fri, 27 Aug 2021 13:07:01 +0200</pubDate>
       
-      <guid>http://www.example.com/es/education/</guid>
+      <guid>/es/education/</guid>
       <description>09/2020-Ahora Universidad de Granada - Master en Ingeniería Informática
 09/2014-09/2020 Universidad de Granada - Grado en Ingeniería Informática
 09/2014-09/2020 Universidad de Granada - Grado en Matemáticas

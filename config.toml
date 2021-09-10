@@ -17,7 +17,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     author = "Yusuke Ishimi" # Author's name.
     info = "WEB AND APPS ENGINEER" # Author's job title or info.
     description = "Yusuke Ishimi's personal website" # Site description.
-    keywords = "blog,developer,personal" # Site keywords.
+    keywords = "Portfolio,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "Enter a text here." # Add footer content
@@ -61,7 +61,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
         author = "Abel José Sánchez Alba"
         info = "SOFTWARE ENGINEER & MATHEMATICIAN"
         description = "Abel's personal website"
-        keywords = "blog,developer,personal"
+        keywords = "Portfolio,developer,personal"
 
         [languages.en.menu] # It is possible to change the menu too.
 
@@ -93,7 +93,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
         [languages.es.params]
             author = "Abel José Sánchez ALba"
             description = "Pagina personal de Abel José"
-            keywords = "blog,developer, ingeniero, matemático"
+            keywords = "Portfolio,developer, ingeniero, matemático"
             info = "INGENIERO INFORMÁTICO & MATEMÁTICO"
 
         [languages.es.menu]
@@ -118,6 +118,37 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
             weight = 4.0
             url = "es/projects"
 
+        [languages.fr]
+        languagename = "Français"
+        title = "Abel José Sánchez Alba"
+
+        [languages.fr.params]
+            author = "Abel José Sánchez ALba"
+            description = "Page personnelle de Abel José"
+            keywords = "Portfolio,développeur, ingénieur, mathématicien"
+            info = "INGÉNIEUR EN INFORMATIQUE ET MATHÉMATICIEN"
+
+        [languages.fr.menu]
+
+            [[languages.fr.menu.main]]
+            name = "De Moi"
+            weight = 1.0
+            url = "fr/about"
+
+            [[languages.fr.menu.main]]
+            name = "Education"
+            weight = 2.0
+            url = "fr/education"
+
+            [[languages.fr.menu.main]]
+            name = "Expérience"
+            weight = 3.0
+            url = "fr/experience"
+
+            [[languages.fr.menu.main]]
+            name = "Projects"
+            weight = 4.0
+            url = "fr/projects"
             
 
 

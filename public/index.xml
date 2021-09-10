@@ -2,16 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abel José SÁnchez Alba</title>
-    <link>http://www.example.com/</link>
+    <link>/</link>
     <description>Recent content on Abel José SÁnchez Alba</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Wed, 01 Sep 2021 17:50:56 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hi! I am Abel I was born in Spain and I am double graduated in Computer Science and Mathematics at the University of Granada, Spain. At this moment I am looking for a job where I can grow professionally with the starting point of the bachelors.
+In addition, I am studying a master to go deeper in the field of software engineering, I am specially interested in back end engineering, where I approach problems using the abstraction given by the mathematics.</description>
+    </item>
+    
     <item>
       <title>Experience</title>
-      <link>http://www.example.com/experience/</link>
+      <link>/experience/</link>
       <pubDate>Fri, 27 Aug 2021 12:25:05 +0200</pubDate>
       
-      <guid>http://www.example.com/experience/</guid>
+      <guid>/experience/</guid>
       <description>02/2021 - 08/2021
 NGA Human Resources, Granada - Software Engineer   Designed automated bots to accelerate enterprise processes
   Improved the efficiency of automation applying data modeling in host services
@@ -23,10 +33,10 @@ NGA Human Resources, Granada - Software Engineer   Designed automated bots to ac
     
     <item>
       <title>Education</title>
-      <link>http://www.example.com/education/</link>
+      <link>/education/</link>
       <pubDate>Fri, 27 Aug 2021 11:48:28 +0200</pubDate>
       
-      <guid>http://www.example.com/education/</guid>
+      <guid>/education/</guid>
       <description>09/2020-Now University of Granada - Master in Computer Science Engineering
 09/2014-09/2020 University of Granada - Bachellor Degree Computer Science
 09/2014-09/2020 University of Granada - Bachellor Degree Mathematics
@@ -36,10 +46,10 @@ Languages  Native Spanish Fluent Profesional English Conversational French  </de
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>/projects/</link>
       <pubDate>Fri, 27 Aug 2021 00:55:23 +0200</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>/projects/</guid>
       <description>Neural Network for Image Recognition   Impremented 100% of the code to recognize Handwritten Numbers with Python
   Optimized accuracy and velocity of trained model using mathematical techniques
   Store Management Webpage   Constructed with HTML, CSS and JavaScript under Django&amp;rsquo;s Framework

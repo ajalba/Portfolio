@@ -1,2 +1,4 @@
+
 # Portfolio
-Repository of pernal Portfolio
+
+Repository of personal Portfolio
