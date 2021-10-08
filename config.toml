@@ -45,7 +45,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     #enableFacebookShare = true # new add
     #enableHatenaShare = true   # new add
     #enableLineShare = true     # new add
-    enableLinkedInShare = true # new add
+    #enableLinkedInShare = true # new add
 
     thumbnail = "images/tn.png" # default sns thumbnail
 
@@ -160,14 +160,10 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     url = "https://github.com/ajalba"
 [[params.social]]
     name = "LinkedIn"
-    icon = "fab fa-linkedin"
+    #icon = "fab fa-linkedin" I don't set icon so text is displayed
     weight = 3
     url = "https://www.linkedin.com/in/abel-jose-sanchez-alba-a1753a1b3/"
-[[params.social]]
-    # If icon is not set, Text is displayed.
-    name = "LinkedIn"
-    weight = 4
-    url = "https://www.linkedin.com/in/naro143/"
+
 
 # Menu links
 [[menu.main]]
